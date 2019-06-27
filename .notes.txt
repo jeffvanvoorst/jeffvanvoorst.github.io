@@ -10,3 +10,5 @@ https://github.com/jch/html-pipeline#dependencies
 -------------------------------------------------
 
 See https://jekyllrb.com/docs/step-by-step/01-setup/
+
+see http://jmcglone.com/guides/github-pages/
